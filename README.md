@@ -16,3 +16,8 @@ message.
 from anywhere in the world using Blynk Application.
 - The power supply setup of the system contains a 12V Battery, Voltage Regulators, Filter Capacitors and Charging Circuit. 12V Output form 7812 Voltage regulator and 5V Output from Voltage regulators is used to power Microcontroller, Accelerometer and Ultrasonic Sensor. Filter capacitor are used to remove ripples from DC Voltage. Charging Circuit along with 12V adapter is used to charge the 12V battery
 
+## Team Members
+- [Niharika Bandila](https://github.com/niharikabandila)
+- [Harshit Kumar](https://github.com/Harshit-singh1234)
+- [Nikhil Pasupuleti](https://github.com/Nikhiljhonny)
+- [Amrutha Varshini Yadla](https://github.com/amrutha453)
