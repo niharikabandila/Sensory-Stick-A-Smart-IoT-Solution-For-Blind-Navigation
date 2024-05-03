@@ -21,3 +21,34 @@ from anywhere in the world using Blynk Application.
 - [Harshit Kumar](https://github.com/Harshit-singh1234)
 - [Nikhil Pasupuleti](https://github.com/Nikhiljhonny)
 - [Amrutha Varshini Yadla](https://github.com/amrutha453)
+
+## Requirements
+### NON-FUNCTIONAL REQUIREMENTS
+#### SOFTWARE REQUIREMENTS
+  - Arduino IDE Compiler 
+  -  Embedded C Programming Language
+#### HARDWARE REQUIREMENTS
+  -  Arduino UNO – Atmega 328 
+  - 12V Battery 
+  - GPS Module 
+  - GSM Module 
+  - Ultrasonic Sensor 
+  - Voice Module 
+  - Switches 
+  - Temperature and Humidity Sensor 
+  - NodeMCU 
+  - Buzzer Module 
+  - Voltage Regulators 
+  - Filter Capacitors 
+  - Walking Stick 
+  - Other Misc Components
+### FUNCTIONAL REQUIREMENTS
+  - Performance : Ensure efficient obstacle detection, response time, GPS accuracy and battery life.
+  - Usability : This system having audio alert clarity, volume control and also weight and balance.
+  - Reliability : It ensures system uptime, sensor accuracy and GSM connectivity.
+  - Security : Data Privacy should be ensured during the process.
+  - Maintainability : The system is designed for ease of repair and software updates.
+  - Environmental Factors : The system should function reliably in different weather conditions (e.g., rain, extreme temperatures).
+  - Cost Effective : The overall cost of the system (including components and maintenance) should be affordable for the target user group
+
+
