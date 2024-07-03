@@ -50,5 +50,16 @@ from anywhere in the world using Blynk Application.
   - Maintainability : The system is designed for ease of repair and software updates.
   - Environmental Factors : The system should function reliably in different weather conditions (e.g., rain, extreme temperatures).
   - Cost Effective : The overall cost of the system (including components and maintenance) should be affordable for the target user group
+## RESULTS AND DISCUSSIONS
+- Object Detection : Objects may be present on the lower surface in the route of the blind or high level objects in front of him. A variety of objects at varying distances and heights are placed, and later the sensor is linked to oscilloscope to know the received signal variation. We get result as no signal, If there is no obstacle on the lower surface or in front of sensor. The environmental noise show on the oscilloscope as a very weak signal as shown in above Fig. If an obstacle present in front of sensor a obtained signal by sensor with amplitude greater than that received signal by disposed sensor.
+- Voice feedback upon obstacle detection : We also checked the voice notification using the voice playback warning module and it is able to provide the correct instruction to the user through speaker.
+-  Location finding and Emergency Unit : The emergency button used in the smart walking stick to send the location message to the preset contact number. To make GSM to be trigger the microcontroller has to detect the interrupt for once. Sequences of 20 tests were performed, 60% of all SMS was sent within one minute. 70% of SMS was sent under 2 minutes and 80% of the messages were sent within 3 minutes. Finally 90% of the messages were sent within 4 minutes and the remaining are failed to send an SMS after 5 minutes.
+![image](https://github.com/niharikabandila/Sensory-Stick-A-Smart-IoT-Solution-For-Blind-Navigation/assets/82656857/9b2449a4-d45a-4076-bc43-f185ef701722)
+- Blynk Server :  And we can also see the Temperature and Humidity data in the blynk server app.
+![image](https://github.com/niharikabandila/Sensory-Stick-A-Smart-IoT-Solution-For-Blind-Navigation/assets/82656857/72155785-2af7-4292-931a-b025ad7a6033)
+
+
+
+
 
 
